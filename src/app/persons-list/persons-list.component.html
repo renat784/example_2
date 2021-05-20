@@ -1,0 +1,12 @@
+<div>
+  <span>Load persons</span>
+
+  <div class="listOfPersons">
+    <app-person
+      *ngFor="let person of persons"
+      [name]="person.name"
+      [age]="person.age"
+      [isAlive]="person.isAlive"
+    ></app-person>
+  </div>
+</div>
