@@ -1,3 +1,10 @@
+
+to do what on image:
+https://github.com/renat784/example_2/blob/master/photo_2020-09-07_14-04-43.jpg
+
+
+--------------------------------------------
+
 # Test2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
